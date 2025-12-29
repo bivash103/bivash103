@@ -41,7 +41,7 @@ A full-stack application for car rental management.
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/bivash103  
-- LinkedIn: (add when ready)
+- LinkedIn: www.linkedin.com/in/bivash-pandey-a60034307
 
 ---
 
